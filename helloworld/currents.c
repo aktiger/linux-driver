@@ -9,7 +9,7 @@ static int hello_init(void)
 {
     printk(KERN_ALERT "hello, world!!\n");
 
-    struct task_struct *currents;
+    struct task_struct *currents;// here it can't be current, cause it will conflict
     currents = get_current();
     printk(KERN_ALERT "The process is %s pid %i\n",currents->comm, currents->pid);
     return 0;
