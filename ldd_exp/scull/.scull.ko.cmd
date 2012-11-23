@@ -1,0 +1,1 @@
+cmd_/home/zhangchao/ldd_exp/scull/scull.ko := ld -r -m elf_i386 -T /usr/src/linux-2.6.39.1/scripts/module-common.lds --build-id  -o /home/zhangchao/ldd_exp/scull/scull.ko /home/zhangchao/ldd_exp/scull/scull.o /home/zhangchao/ldd_exp/scull/scull.mod.o

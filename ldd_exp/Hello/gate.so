@@ -1,0 +1,36 @@
+08048000-08056000 r-xp 00000000 08:01 48         /bin/dd
+08056000-08057000 r--p 0000d000 08:01 48         /bin/dd
+08057000-08058000 rw-p 0000e000 08:01 48         /bin/dd
+08058000-08079000 rw-p 00000000 00:00 0          [heap]
+b7d05000-b7d44000 r--p 00000000 08:01 235802     /usr/lib/locale/zh_CN.utf8/LC_CTYPE
+b7d44000-b7e64000 r--p 00000000 08:01 235804     /usr/lib/locale/zh_CN.utf8/LC_COLLATE
+b7e64000-b7e65000 rw-p 00000000 00:00 0 
+b7e65000-b7e7a000 r-xp 00000000 08:01 1043       /lib/tls/i686/cmov/libpthread-2.10.1.so
+b7e7a000-b7e7b000 r--p 00014000 08:01 1043       /lib/tls/i686/cmov/libpthread-2.10.1.so
+b7e7b000-b7e7c000 rw-p 00015000 08:01 1043       /lib/tls/i686/cmov/libpthread-2.10.1.so
+b7e7c000-b7e7f000 rw-p 00000000 00:00 0 
+b7e7f000-b7fbd000 r-xp 00000000 08:01 955        /lib/tls/i686/cmov/libc-2.10.1.so
+b7fbd000-b7fbe000 ---p 0013e000 08:01 955        /lib/tls/i686/cmov/libc-2.10.1.so
+b7fbe000-b7fc0000 r--p 0013e000 08:01 955        /lib/tls/i686/cmov/libc-2.10.1.so
+b7fc0000-b7fc1000 rw-p 00140000 08:01 955        /lib/tls/i686/cmov/libc-2.10.1.so
+b7fc1000-b7fc4000 rw-p 00000000 00:00 0 
+b7fc4000-b7fcb000 r-xp 00000000 08:01 1056       /lib/tls/i686/cmov/librt-2.10.1.so
+b7fcb000-b7fcc000 r--p 00006000 08:01 1056       /lib/tls/i686/cmov/librt-2.10.1.so
+b7fcc000-b7fcd000 rw-p 00007000 08:01 1056       /lib/tls/i686/cmov/librt-2.10.1.so
+b7fcf000-b7fd0000 r--p 00000000 08:01 136059     /usr/lib/locale/zh_CN.utf8/LC_NUMERIC
+b7fd0000-b7fd1000 r--p 00000000 08:01 235803     /usr/lib/locale/zh_CN.utf8/LC_TIME
+b7fd1000-b7fd2000 r--p 00000000 08:01 235805     /usr/lib/locale/zh_CN.utf8/LC_MONETARY
+b7fd2000-b7fd3000 r--p 00000000 08:01 235807     /usr/lib/locale/zh_CN.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+b7fd3000-b7fd4000 r--p 00000000 08:01 136360     /usr/lib/locale/zh_CN.utf8/LC_PAPER
+b7fd4000-b7fd5000 r--p 00000000 08:01 235808     /usr/lib/locale/zh_CN.utf8/LC_NAME
+b7fd5000-b7fd6000 r--p 00000000 08:01 235824     /usr/lib/locale/zh_CN.utf8/LC_ADDRESS
+b7fd6000-b7fd7000 r--p 00000000 08:01 242485     /usr/lib/locale/zh_CN.utf8/LC_TELEPHONE
+b7fd7000-b7fd8000 r--p 00000000 08:01 136356     /usr/lib/locale/zh_CN.utf8/LC_MEASUREMENT
+b7fd8000-b7fdf000 r--s 00000000 08:01 134452     /usr/lib/gconv/gconv-modules.cache
+b7fdf000-b7fe0000 r--p 00000000 08:01 242486     /usr/lib/locale/zh_CN.utf8/LC_IDENTIFICATION
+b7fe0000-b7fe2000 rw-p 00000000 00:00 0 
+b7fe2000-b7fe3000 r-xp 00000000 00:00 0          [vdso]
+b7fe3000-b7ffe000 r-xp 00000000 08:01 91         /lib/ld-2.10.1.so
+b7ffe000-b7fff000 r--p 0001a000 08:01 91         /lib/ld-2.10.1.so
+b7fff000-b8000000 rw-p 0001b000 08:01 91         /lib/ld-2.10.1.so
+bffdf000-c0000000 rw-p 00000000 00:00 0          [stack]

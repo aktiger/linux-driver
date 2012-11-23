@@ -1,0 +1,6 @@
+obj-m := memory_alloc.o
+modules:
+	make -C /home/zhangchao/linux-3.4.6/ M=`pwd` modules 
+modules_install:
+	cp -r memory_alloc.ko /home/zhangchao
+#.PHONY	modules modules_install

@@ -1,0 +1,1 @@
+cmd_/home/zhangchao/ldd_exp/memory_alloc/memory_alloc.ko := ld -r -m elf_i386 -T /home/zhangchao/linux-3.4.6/scripts/module-common.lds --build-id  -o /home/zhangchao/ldd_exp/memory_alloc/memory_alloc.ko /home/zhangchao/ldd_exp/memory_alloc/memory_alloc.o /home/zhangchao/ldd_exp/memory_alloc/memory_alloc.mod.o

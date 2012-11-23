@@ -1,0 +1,1 @@
+cmd_/home/zhangchao/ldd_exp/Hello/hello_world.ko := ld -r -m elf_i386 -T /home/zhangchao/linux-3.4.6/scripts/module-common.lds --build-id  -o /home/zhangchao/ldd_exp/Hello/hello_world.ko /home/zhangchao/ldd_exp/Hello/hello_world.o /home/zhangchao/ldd_exp/Hello/hello_world.mod.o
